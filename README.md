@@ -27,3 +27,7 @@ Flood Fill Algorithm (FFA)
 Translation Scaling Rotation (TSR)
 ------------------------------
 ![GitHub Logo](/Output/TSR.png)
+
+Shearing
+------------------------------
+![GitHub Logo](/Output/shear.png)
