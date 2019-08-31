@@ -15,3 +15,7 @@ MFC Functions
 Ellipse Drawing algorithm (EDA)
 ------------------------------
 ![GitHub Logo](/Output/EDA.png)
+
+Boundary Fill Algorithm (BFA)
+------------------------------
+![GitHub Logo](/Output/BFA.png)
