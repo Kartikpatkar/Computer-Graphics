@@ -7,3 +7,7 @@ Circle Drawing Algorithm (CDA)
 Digital Differential Analyzer (DDA)
 ------------------------------
 ![GitHub Logo](/Output/DDA.png)
+
+MFC Functions
+------------------------------
+![GitHub Logo](/Output/MFC.png)
