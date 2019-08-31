@@ -1,4 +1,4 @@
-//Function in c++ using MMC
+//Function in c++ using MFC in Microsoft Visual Studio
 // CCG_expt_05View drawing
 void plot_points(int xc,int yc,int x, int y,CDC* pDC,COLORREF b){
 	pDC->SetPixel(xc+x,yc+y,b);
