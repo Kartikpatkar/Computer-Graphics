@@ -11,3 +11,7 @@ Digital Differential Analyzer (DDA)
 MFC Functions
 ------------------------------
 ![GitHub Logo](/Output/MFC.png)
+
+Ellipse Drawing algorithm (EDA)
+------------------------------
+![GitHub Logo](/Output/EDA.png)
