@@ -23,3 +23,7 @@ Boundary Fill Algorithm (BFA)
 Flood Fill Algorithm (FFA)
 ------------------------------
 ![GitHub Logo](/Output/FFA.png)
+
+Translation Scaling Rotation (TSR)
+------------------------------
+![GitHub Logo](/Output/TSR.png)
